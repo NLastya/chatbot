@@ -6,3 +6,8 @@
 Архитектура:
 Frontend: React + Typescript + Tailwind + HeroUI + SocketIO,
 Backend: nodeJS,
+
+Code Style:
+Компоненты - arrow functions ES6,
+Стили - tailwind,
+
